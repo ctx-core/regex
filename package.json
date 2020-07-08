@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/regex",
-	"version": "3.1.23",
+	"version": "3.1.24",
 	"description": "ctx-core regex",
 	"main": "index.js",
 	"module": "index.js",
