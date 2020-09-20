@@ -1,36 +1,35 @@
 {
-  "name": "@ctx-core/regex",
-  "version": "4.0.0",
-  "description": "ctx-core regex",
-  "keywords": [
-    "ctx-core",
-    "regex"
-  ],
-  "homepage": "https://github.com/ctx-core/regex#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/regex/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/regex/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "main": "./index.js",
-  "module": "./index.js",
-  "types": "./index.ts",
-  "scripts": {
-    "build": "npm run clean && npm run compile",
-    "clean": "rm -f tsconfig.tsbuildinfo",
-    "compile": "./node_modules/.bin/tsc -b",
-    "exec": "$@",
-    "prepublishOnly": "npm run compile"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.3"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "9558752a590b8ad4a7bee002a7cfa1f3dba06e5c"
+	"name": "@ctx-core/regex",
+	"version": "4.0.0",
+	"description": "ctx-core regex",
+	"keywords": [
+		"ctx-core",
+		"regex"
+	],
+	"homepage": "https://github.com/ctx-core/regex#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/regex/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/regex/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
+	"scripts": {
+		"build": "npm run clean && npm run compile",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "./node_modules/.bin/tsc -b",
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
+	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
