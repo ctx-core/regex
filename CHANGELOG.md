@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 4.0.5
+
+### Patch Changes
+
+- - .rush
+
 ## 4.0.4
 
 ### Patch Changes
