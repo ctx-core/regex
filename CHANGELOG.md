@@ -1,5 +1,12 @@
 # @ctx-core/regex
 
+## 4.1.0
+
+### Minor Changes
+
+- regex_indexOf as indexOf\_\_regex
+- regex_lastIndexOf as lastIndexOf\_\_regex
+
 ## 4.0.5
 
 ### Patch Changes
