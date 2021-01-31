@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 5.0.0
+
+### Major Changes
+
+- src directory
+
 ## 4.1.0
 
 ### Minor Changes
