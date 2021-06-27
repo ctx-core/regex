@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 7.0.9
+
+### Patch Changes
+
+- dist directory
+
 ## 7.0.8
 
 ### Patch Changes
