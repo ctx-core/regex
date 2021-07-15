@@ -1,3 +1,3 @@
-export * from './re_'
-export * from './regex_indexOf'
-export * from './regex_lastIndexOf'
+export * from './re_.js'
+export * from './regex_indexOf.js'
+export * from './regex_lastIndexOf.js'
