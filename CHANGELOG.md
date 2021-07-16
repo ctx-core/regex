@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.0.6
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+
 ## 8.0.5
 
 ### Patch Changes
