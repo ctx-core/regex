@@ -4,7 +4,7 @@
 /**
  * indexOf with regex
  */
-export function regex_indexOf(str: string, regex: RegExp, in_startpos?: number) {
+export function regex_indexOf(str: string, regex: RegExp, in_startpos?: number):number {
 	const startpos = in_startpos || 0
 	const indexOf = str.substring(startpos).search(regex)
 	return (

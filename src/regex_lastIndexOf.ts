@@ -1,7 +1,7 @@
 /**
  * lastIndexOf with regex
  */
-export function regex_lastIndexOf(str: string, regex: RegExp, startpos?: number) {
+export function regex_lastIndexOf(str: string, regex: RegExp, startpos?: number):number {
 	regex =
 		regex.global
 		? regex
