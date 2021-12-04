@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.0.21
+
+### Patch Changes
+
+- @swc/core: ^1.2.116 -> ^1.2.117
+
 ## 8.0.20
 
 ### Patch Changes
