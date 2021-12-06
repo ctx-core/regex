@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.0.23
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 8.0.22
 
 ### Patch Changes
