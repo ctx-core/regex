@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.0.24
+
+### Patch Changes
+
+- package.json: - module
+
 ## 8.0.23
 
 ### Patch Changes
