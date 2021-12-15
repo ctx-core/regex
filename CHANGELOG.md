@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.0.25
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 8.0.24
 
 ### Patch Changes
