@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.0.31
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 8.0.30
 
 ### Patch Changes
