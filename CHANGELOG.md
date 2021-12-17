@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.0.30
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 8.0.29
 
 ### Patch Changes
