@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.0.33
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 8.0.32
 
 ### Patch Changes
