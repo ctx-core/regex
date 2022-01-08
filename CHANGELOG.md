@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.0.36
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 8.0.35
 
 ### Patch Changes

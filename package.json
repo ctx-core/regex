@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/regex",
-	"version": "8.0.35",
+	"version": "8.0.36",
 	"description": "ctx-core regex",
 	"keywords": [
 		"ctx-core",
@@ -44,5 +44,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }
