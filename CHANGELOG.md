@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.1.19
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+
 ## 8.1.18
 
 ### Patch Changes
