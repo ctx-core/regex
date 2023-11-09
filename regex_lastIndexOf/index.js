@@ -1,8 +1,8 @@
 /**
  * lastIndexOf with regex
- * @param str{string}
- * @param regex{RegExp}
- * @param startpos{number}
+ * @param {string}str
+ * @param {RegExp}regex
+ * @param {number}startpos
  * @returns {number}
  */
 export function regex_lastIndexOf(str, regex, startpos) {

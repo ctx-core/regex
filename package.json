@@ -17,10 +17,16 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./re_",
+		"./regex_indexOf",
+		"./regex_lastIndexOf"
+	],
+	"types": "./index.d.ts",
+	"svelte": "./index.js",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -35,7 +41,7 @@
 	"devDependencies": {
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
-		"tsx": "^3.14.0",
+		"tsx": "^4.0.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},

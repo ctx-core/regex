@@ -1,8 +1,8 @@
 /**
  * indexOf with regex
- * @param str{str}
- * @param regex{RegExp}
- * @param in_startpos{number}
+ * @param {str}str
+ * @param {RegExp}regex
+ * @param {number}in_startpos
  * @returns {number}
  * @see {@link https://github.com/capaj/index-of-regex}
  */

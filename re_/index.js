@@ -1,6 +1,6 @@
 /**
- * @param pattern{RegExp|string}
- * @param flags{string}
+ * @param {RegExp|string}pattern
+ * @param {string}flags
  * @returns {RegExp}
  */
 export function re_(pattern, flags) {
