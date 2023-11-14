@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.1.24
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 8.1.23
 
 ### Patch Changes
