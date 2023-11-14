@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.1.23
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 8.1.22
 
 ### Patch Changes

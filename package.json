@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/regex",
-	"version": "8.1.22",
+	"version": "8.1.23",
 	"description": "ctx-core regex",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.json",
 		"./re_",
 		"./regex_indexOf",
 		"./regex_lastIndexOf"
