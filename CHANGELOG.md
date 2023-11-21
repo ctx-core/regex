@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.1.27
+
+### Patch Changes
+
+- tsx: ^4.1.4 -> ^4.2.0
+
 ## 8.1.26
 
 ### Patch Changes
