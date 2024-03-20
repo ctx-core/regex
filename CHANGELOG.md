@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.1.32
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 8.1.31
 
 ### Patch Changes

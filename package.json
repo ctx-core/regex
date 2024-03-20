@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/regex",
-	"version": "8.1.31",
+	"version": "8.1.32",
 	"description": "ctx-core regex",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/regex.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-regex@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
