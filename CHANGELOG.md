@@ -1,5 +1,11 @@
 # @ctx-core/regex
 
+## 8.1.34
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 8.1.33
 
 ### Patch Changes
